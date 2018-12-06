@@ -39,7 +39,6 @@ const TableRowEdit = ((props)=>{
 							id="joiningDate"
 							className="form-control"
 							defaultValue={props.data.studentData.joiningDate}
-							maxLength = '5'
 						/>
 							</td>
 							<td>
